@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E251764E-C2BE-0F36-D64C-78E2D7DC1E7B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JsonResponseBody.cs">
+    <Files>
+      <File FileName="Assets/NetworkApiController.cs" Line="13" Column="25" />
+      <File FileName="Assets/Header.cs" Line="7" Column="2" />
+      <File FileName="Assets/JsonResponseBody.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test_ci_cd" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="JsonResponseBody.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c4de438b-af79-4f2d-a6e2-bb3940af56fb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
